@@ -1,0 +1,28 @@
+{
+  "name": "waimai",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react": "16.0.0",
+    "react-native": "0.50.1",
+    "react-native-scrollable-tab-view": "^0.8.0",
+    "react-native-swiper": "^1.5.13",
+    "react-navigation": "^1.0.0-beta.19"
+  },
+  "devDependencies": {
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.2.1",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
