@@ -6,10 +6,10 @@
 <img src="https://img.shields.io/badge/status-active-red.svg?style=flat-square" />
 </p>
 <div style="display:flex;justify-content:center;flex-direction:row;width=800px;">
-		<div style="flex:1"><img src="https://s1.ax1x.com/2017/12/18/OYMtJ.png" /></div>
-		<div style="flex:1"><img src="https://s1.ax1x.com/2017/12/18/OYn7F.png"/></div>
-		<div style="flex:1"><img src="https://s1.ax1x.com/2017/12/18/OYm0U.png" /></div>
-		<div style="flex:1"><img src="https://s1.ax1x.com/2017/12/18/OYVXV.png" /></div>
+		<div width="175px" height="311px"><img src="https://s1.ax1x.com/2017/12/18/OYMtJ.png" /></div>
+		<div  width="175px" height="311px"><img src="https://s1.ax1x.com/2017/12/18/OYn7F.png"/></div>
+		<div width="175px" height="311px"><img src="https://s1.ax1x.com/2017/12/18/OYm0U.png" /></div>
+		<div width="175px" height="311px"><img src="https://s1.ax1x.com/2017/12/18/OYVXV.png" /></div>
 </div>
 
 #### Hot to run it?
